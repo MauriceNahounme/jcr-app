@@ -1,0 +1,9 @@
+.dashboard {
+  padding: 0;
+  margin: 0;
+}
+
+.profil {
+  overflow-y: clip;
+  /* border: 1px solid red; */
+}
